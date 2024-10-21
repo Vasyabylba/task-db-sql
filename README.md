@@ -65,4 +65,4 @@ constraints.
 
 ## Solutions
 
-Решения задач описаны в файле [`sql-task.sql`](resources/sql/sql-task.sql).
+Решения задач описаны в файле [`sql-task.sql`](resourсes/sql/sql-task.sql).
